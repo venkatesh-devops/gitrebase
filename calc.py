@@ -13,3 +13,7 @@ def subtract(x, y):
 
 def division(x,y):
     pass
+
+
+def square root (x , y):
+    return xy
