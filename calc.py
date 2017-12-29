@@ -23,3 +23,6 @@ def square root (x , y):
 
 def log (x, y):
     return log(xy)
+
+def expoential (x, y):
+    return e(10)
