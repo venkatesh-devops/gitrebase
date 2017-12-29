@@ -20,3 +20,6 @@ def square (x, y):
 
 def square root (x , y):
     return xy
+
+def log (x, y):
+    return log(xy)
