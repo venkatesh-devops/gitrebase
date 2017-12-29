@@ -14,6 +14,9 @@ def subtract(x, y):
 def division(x,y):
     pass
 
+def square (x, y):
+    return x**y
+
 
 def square root (x , y):
     return xy
